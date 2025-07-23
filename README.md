@@ -1,7 +1,8 @@
 # SerialUSB Scanner Tool
 
-A lightweight Windows desktop utility for communicating with USB serial devices.  
+A lightweight Windows desktop utility for communicating with USB serial / RS232 devices.  
 Supports COM port scanning, configurable baud rates, auto-connect, and system tray minimization.
+Is perfect to use with barcode scanners.
 
 ## ✨ Features
 
